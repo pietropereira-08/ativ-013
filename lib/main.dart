@@ -54,12 +54,12 @@ class PerfilScreen extends StatelessWidget {
               const CircleAvatar(
                 radius: 60,
                 backgroundImage: NetworkImage(
-                  'https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=500',
+                  'https://www.istockphoto.com/br/fotos/avatar',
                 ),
               ),
               const SizedBox(height: 16),
               const Text(
-                'Maria Silva',
+                'Pietro Pereira',
                 style: TextStyle(
                   fontSize: 24,
                   fontWeight: FontWeight.bold,
@@ -67,7 +67,7 @@ class PerfilScreen extends StatelessWidget {
                 ),
               ),
               const Text(
-                'Desenvolvedora Flutter',
+                'Desenvolvedor Flutter',
                 style: TextStyle(
                   fontSize: 16,
                   color: Colors.white70,
@@ -96,7 +96,7 @@ class PerfilScreen extends StatelessWidget {
                       ),
                       SizedBox(height: 8),
                       Text(
-                        'Sou apaixonada por tecnologia e desenvolvimento mobile. Tenho experiência na criação de aplicações com Flutter e Dart, focando na construção de interfaces intuitivas e num código limpo e organizado.',
+                        'Gosto de codigo',
                         style: TextStyle(
                           fontSize: 14,
                           color: Colors.black87,
